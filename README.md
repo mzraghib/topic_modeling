@@ -25,3 +25,5 @@ python3 train.py
 ```
 * For smaller texts, the model may return < 5 topics
 
+## References
+https://github.com/susanli2016/NLP-with-Python/blob/master/LDA_news_headlines.ipynb
