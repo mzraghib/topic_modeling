@@ -1,5 +1,5 @@
-# Topic_modelling
-topic modelling using LDA
+# Topic modeling
+topic modeling using LDA
 
 # Dependencies
 * Python3
