@@ -1,0 +1,1 @@
+{"_id": "04ed93fc36f0995d3225b830cf2a07e03953cd8ca76e143f94132efe25066415", "text": " Your program should take input a file with JSON documents, generate top five topics for each document and write output to a files The topics should be in the decreasing order of their weights in the list."}
