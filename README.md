@@ -4,7 +4,7 @@ topic modelling using LDA
 # Dependencies
 * Python3
 * nltk
-* gentin
+* gensim
 
 # Instructions
 
